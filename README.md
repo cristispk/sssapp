@@ -1,3 +1,3 @@
 # sssapp
 
-shoppable-social-application
+shoppable social - shopify application
